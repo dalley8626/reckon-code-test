@@ -1,6 +1,6 @@
-#Reckon coding test
+## Reckon coding test
 
-##Create by Senghuot Lay
+Create by Senghuot Lay
 
 ## Getting Started
 To get started, The following are the required libraries and database that need to be installed.
